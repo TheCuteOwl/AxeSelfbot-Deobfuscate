@@ -6,6 +6,12 @@
 ---
 * Here is a deobfuscated version of AxeSelfbot From TheAxes
 
+
+* 0 detection out of 61
+
+![alt text](https://cdn.discordapp.com/attachments/807697483635359774/1058428321823723530/image.png)
+
+
 * And there is not any token grabber even without deobfuscation, that's rare for a that's big program
 <br><br>
 * <a href="https://github.com/TheAxes/AxeSelfbot">HERE IS THE ORIGNAL REPO
