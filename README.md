@@ -14,7 +14,7 @@
 
 * And there is not any token grabber even without deobfuscation, that's rare for a that's big program
 <br><br>
-* <a href="https://github.com/TheAxes/AxeSelfbot">HERE IS THE ORIGNAL REPO
+* <a href="https://github.com/TheAxes/AxeSelfbot">HERE IS THE ORIGINAL REPO
 -----
 
 <p align="center"><strong><i>⚠️ Important information :</i></strong</p>
